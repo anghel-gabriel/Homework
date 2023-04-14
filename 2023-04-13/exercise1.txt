@@ -1,0 +1,29 @@
+<!-- Rolling Exercise - HTML Part 1 
+
+Part A
+    Create an HTML page with the following elements:
+    1.) Add div that contains 2 elements - 
+        a.) H1 with the text my website.
+        b.) Paragraph with text: this is my beautiful web site.  
+    2.) Add div that contains 5 a href elements - 
+        a.) Home  
+        b.) About
+        c.) News
+        d.) Prices
+        e.) Login
+
+Part B
+    Add the following elements to index.html:
+    1.) Add div that contains 3 divs. 
+
+Part C
+    Add the following elements to first div:
+    1.) Add div (with comment number 1) that contains -  
+        a.) H2 - Title h2.  
+        b.) H5 - Title description , Nov 20, 2020.
+        c.) div - img src with height and width that equal to 100%.  
+        d.) Paragraph - text…
+        e.) Paragraph - add random text to this paragraph.
+
+Part D
+    Duplicate div number 1 three times.
