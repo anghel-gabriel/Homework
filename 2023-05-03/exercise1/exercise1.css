@@ -1,0 +1,103 @@
+/* Reset and general styling */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 20px auto;
+	max-width: 1200px;
+}
+
+/* Bottom and top containers */
+
+.Grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+}
+
+/* Horizontal rule */
+
+hr {
+	margin: 15px 0px;
+	height: 1px;
+	background-color: rgba(91, 91, 91, 0.293);
+	border: none;
+}
+
+/* Cards */
+
+.Card {
+	width: 400px;
+	height: 80px;
+	padding: 0px 5px 10px 10px;
+	display: flex;
+}
+
+.TextContainer {
+	width: 65%;
+	margin-right: 70px;
+}
+
+.ImageContainer {
+	width: 50px;
+	height: 50px;
+	background-size: contain;
+	margin: auto 0;
+}
+
+/* Borders */
+
+.BorderRight {
+	border-right: 1px solid rgba(91, 91, 91, 0.293);
+}
+
+/* Text */
+
+h2 {
+	font-size: 15px;
+	line-height: 25px;
+}
+
+p {
+	font-size: 14px;
+	color: grey;
+}
+
+span {
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Images */
+
+.Image1 {
+	background-image: url("https://thepelmelpmhs.com/wp-content/uploads/2022/03/wordle2-900x900.jpeg");
+}
+
+.Image2 {
+	background-image: url("https://wordgames.gg/data/image/game/wordle.png");
+	background-size: cover;
+	background-position-x: -90px;
+}
+
+.Image3 {
+	background-image: url("https://cdn6.aptoide.com/imgs/b/8/c/b8c5a83ee45db9d81807a57ccfa9cf87_icon.png");
+}
+
+.Image4 {
+	background-image: url("https://news.kleinisd.net/wp-content/uploads/2018/09/Spelling-Bee-LISA-ROBINSON.png");
+	background-size: cover;
+}
+
+.Image5 {
+	background-image: url("https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-videoLarge-v4.png");
+	background-size: cover;
+	background-position-x: -13px;
+}
+
+.Image6 {
+	background-image: url("https://weavergame.net/data/image/letter-boxed.png");
+}
