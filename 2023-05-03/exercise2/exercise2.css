@@ -1,0 +1,74 @@
+/* CSS Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+
+body {
+  margin: 5px auto;
+  max-width: 1200px;
+}
+
+/* Text */
+
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  margin-bottom: 3px;
+}
+
+/* Container */
+
+.RelatedArticles {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 25px;
+}
+
+/* Cards */
+.Card {
+  width: 220px;
+}
+
+/* Lists */
+
+li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+/* Images */
+
+.Image {
+  height: 140px;
+  width: 100%;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
+.Image1 {
+  background-image: url("https://ecfr.eu/wp-content/uploads/2022/02/26797805236_b4762633a0_o-1-1-864x486-c-center.png");
+  background-position-x: -15px;
+}
+
+.Image2 {
+  background-image: url("https://thumbs.dreamstime.com/b/high-school-science-lab-classroom-empty-221102705.jpg");
+}
+
+.Image3 {
+  background-image: url("https://cloudfront-us-east-1.images.arcpublishing.com/infobae/J4DKJH7T6ND2NCF7RKJVO5KJLE.jpeg");
+}
+
+.Image4 {
+  background-image: url("https://cdn.abcotvs.com/dip/images/11344784_121521-wabc-ap-keechant-sewell-img.jpg");
+}
+
+.Image5 {
+  background-image: url("https://www.fluentu.com/blog/business-english/wp-content/uploads/sites/20/2018/02/american-business-english.jpeg");
+}
