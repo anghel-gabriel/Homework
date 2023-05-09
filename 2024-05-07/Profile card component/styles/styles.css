@@ -1,0 +1,108 @@
+/* Font import */
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+/* CSS reset */
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* CSS variables */
+:root {
+	--dark-cyan: hsl(185, 75%, 39%);
+	--dark-blue: hsl(229, 23%, 23%);
+	--gray-blue: hsl(227, 10%, 46%);
+	--dark-gray: hsl(0, 0%, 59%);
+	--size: 18px;
+}
+
+/* Setting the rem base */
+html,
+.name,
+.age {
+	font-size: var(--size);
+}
+
+/* Body */
+body {
+	background-color: var(--dark-cyan);
+	color: var(--dark-blue);
+	font-family: "Kumbh Sans", sans-serif;
+	text-align: center;
+}
+
+/* Backgrounds */
+.top-bg {
+	position: fixed;
+	top: -25rem;
+	left: -15rem;
+	z-index: -1;
+}
+
+.bottom-bg {
+	position: fixed;
+	bottom: -30rem;
+	right: -8rem;
+	z-index: -1;
+}
+
+/* Containers, images, horizontal rule */
+.card {
+	border-radius: 1rem;
+	width: 350px;
+	margin: 10rem auto;
+	background-color: white;
+}
+
+.header-bg {
+	border-radius: 1rem 1rem 0 0;
+}
+
+.profile-picture {
+	border-radius: 5rem;
+	border: 0.3rem solid white;
+	position: relative;
+	top: -3.1rem;
+}
+
+.stats-container {
+	display: flex;
+	padding: 1.2rem 2rem;
+	justify-content: space-around;
+}
+
+/* Text */
+.name {
+	margin-top: -2.5rem;
+}
+
+.age,
+.location {
+	color: var(--gray-blue);
+	font-weight: 400;
+}
+
+.age {
+	margin-left: 0.3rem;
+}
+
+.location {
+	width: 100%;
+	font-size: 0.8rem;
+	border-bottom: 1px solid rgba(156, 156, 156, 0.386);
+	padding: 0.5rem 0 1rem 0;
+}
+
+.number {
+	font-weight: 700;
+	color: var(--dark-blue);
+}
+
+.subject {
+	font-size: 0.6rem;
+	font-weight: 400;
+	letter-spacing: 0.07rem;
+	color: var(--dark-gray);
+	margin-top: 0.2rem;
+}
