@@ -79,7 +79,6 @@ const persoaneFunction = function (lista) {
 			return peopleWithNecessarySkills;
 		},
 		getPeopleBySomeSkillSet: function (skillsArr) {
-			console.log(skillsArr);
 			let peopleWithSomeSkills = [];
 			for (let i = 0; i < lista.length; i++) {
 				for (let j = 0; j < skillsArr.length; j++) {
@@ -113,5 +112,5 @@ listaPersoaneFunc.listOutTheEntireInformation();
 console.log('Persoane ordine alfabetica', listaPersoaneFunc.getPeopleByAlphabeticalOrder());
 console.log('Programatori seniori', listaPersoaneFunc.getPeopleByYearsOfExperience());
 console.log('Persoane cu exact abilitati', listaPersoaneFunc.getPeopleByExactSkillsSet(['HTML', 'CSS']));
-console.log('Persoane cu una dintre abilitati', listaPersoaneFunc.getPeopleByExactSkillsSet(['React', 'Angular', 'CSS']));
+console.log('Persoane cu una dintre abilitati', listaPersoaneFunc.getPeopleBySomeSkillSet(['React', 'Angular']));
 listaPersoaneFunc.getHtmlContent();
