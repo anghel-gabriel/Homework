@@ -1,0 +1,4 @@
+Construiţi, folosind div, patrat, dreptunghi, cerc şi romb.
+Aplicaţi cele 4 proprietăţi de transform, translate, scale, skew, rotate, cât şi tranziţiile.
+Declanşatorul să fie un hover effect.
+Să adăugați la tranziție efecte și pe culoare, nu doar pe transform.
