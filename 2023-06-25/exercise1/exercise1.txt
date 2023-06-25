@@ -1,0 +1,5 @@
+Calculul mediei
+
+Declarați trei variabile numerice pentru notele studenților: nota1, nota2 și nota3.
+Calculați media notelor și stocați rezultatul într-o variabilă numită media.
+Afișați rezultatul utilizând console.log().
