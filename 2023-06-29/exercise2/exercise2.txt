@@ -1,0 +1,1 @@
+Scrieți un program care să rezolve teorema catetelor a unui triunghi dreptunghic a lui Pitagora. O variabilă ipotenuza care conține formula (folosiți radical), o variabilă cateta.
