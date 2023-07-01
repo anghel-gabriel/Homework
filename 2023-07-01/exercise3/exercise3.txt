@@ -1,0 +1,1 @@
+Creați o variabilă numar și atribuiți-i o valoare numerică. Utilizați o instrucțiune "if-else" pentru a verifica dacă numărul este pozitiv, negativ sau zero. Afișați mesajul corespunzător în funcție de rezultat.

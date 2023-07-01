@@ -1,0 +1,6 @@
+Creați o variabilă nota și atribuiți-i o valoare numerică reprezentând o notă obținută la un test. Utilizați o instrucțiune "if-else" pentru a afișa un mesaj corespunzător, în funcție de valoarea notei:
+    * Dacă nota este mai mare sau egală cu 90, afișați mesajul "Excelent!"
+    * Dacă nota este între 80 și 89, afișați mesajul "Foarte bine!"
+    * Dacă nota este între 70 și 79, afișați mesajul "Bine."
+    * Dacă nota este între 60 și 69, afișați mesajul "Satisfăcător."
+    * Dacă nota este mai mică de 60, afișați mesajul "Nu ați trecut."

@@ -1,0 +1,1 @@
+Creați două variabile, numar1 și numar2, și atribuiți-le valori numerice diferite. Utilizați o instrucțiune "if-else" pentru a verifica care dintre cele două numere este mai mare și afișați mesajul corespunzător.
