@@ -1,0 +1,1 @@
+Verificați dacă o variabilă numită variabila este definită și diferită de null. Afișați mesajul "Variabila este definită" dacă este adevărat și "Variabila nu este definită" în caz contrar.

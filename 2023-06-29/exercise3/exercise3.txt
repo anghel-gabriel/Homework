@@ -1,0 +1,1 @@
+Scrieți alte 2 formule cunoscute din matematică (care vi se par mai interesant de aplicat) și dați un exemplu cu valori, iar rezultatul să fie prezentat în consolă.

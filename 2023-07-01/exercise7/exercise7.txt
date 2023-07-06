@@ -1,0 +1,1 @@
+Creați o variabilă numită age și atribuiți-i o valoare numerică reprezentând vârsta unei persoane. Utilizați o instrucțiune "if" pentru a verifica dacă persoana este eligibilă pentru a conduce. Dacă vârsta este mai mare sau egală cu 18, afișați mesajul "Puteți conduce!", altfel afișați mesajul "Nu puteți conduce încă.".

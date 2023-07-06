@@ -1,0 +1,1 @@
+Creați o variabilă temperatura și atribuiți-i o valoare numerică reprezentând temperatura în grade Celsius. Utilizați o instrucțiune "if-else" pentru a verifica dacă temperatura este mai mare de 30 de grade Celsius. Dacă este, afișați mesajul "Este o zi caldă!", altfel afișați mesajul "Temperatura este moderată."

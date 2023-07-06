@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Exercise 3</title>
+	</head>
+	<body>
+		<script>
+			//Formula 1: (a+b)^2 = a^2+2ab+b^2;
+			const a = 3;
+			const b = 4;
+			const rezultatFormulaNr1VariantaA = (a + b) ** 2;
+			const rezultatFormulaNr1VariantaB = a ** 2 + 2 * a * b + b ** 2;
+			console.log(`Rezultatul primei formule folosind (a+b)^2 este ${rezultatFormulaNr1VariantaA}, iar rezultatul folosind a^2+2ab+b^2 este ${rezultatFormulaNr1VariantaB}. Dacă formulele oferă același rezultat, "true" va fi afișat între următoarele paranteze pătrate [${rezultatFormulaNr1VariantaA === rezultatFormulaNr1VariantaB}].`);
+			//Formula 2: c^4-d^4 = (c-d)(c+d)(c^2+d^2);
+			const c = 2;
+			const d = 3;
+			const rezultatFormulaNr2VariantaA = c ** 4 - d ** 4;
+			const rezultatFormulaNr2VariantaB = (c - d) * (c + d) * (c ** 2 + d ** 2);
+			console.log(`Rezultatul celei de-a doua formule folosind c^4-d^4 este ${rezultatFormulaNr2VariantaA}, iar rezultatul folosind (c-d)(c+d)(c^2+d^2) este ${rezultatFormulaNr2VariantaB}. Dacă formulele oferă același rezultat, "true" va fi afișat între următoarele paranteze pătrate [${rezultatFormulaNr2VariantaA === rezultatFormulaNr2VariantaB}].`);
+		</script>
+	</body>
+</html>

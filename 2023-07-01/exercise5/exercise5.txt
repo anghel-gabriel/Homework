@@ -1,0 +1,1 @@
+Verificați dacă o variabilă numită numar este mai mare sau egala cu 0 și mai mică sau egală cu 10. Afișați mesajul "Numărul este cuprins între 0 și 10" dacă este adevărat și "Numărul nu este în intervalul specificat" în caz contrar.

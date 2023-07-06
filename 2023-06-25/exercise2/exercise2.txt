@@ -1,0 +1,6 @@
+Concatenarea șirurilor de caractere
+
+Declarați trei variabile șir de caractere: nume, prenume și mesaj.
+Concatenați nume și prenume într-un nou șir de caractere și stocați rezultatul în variabila numeComplet.
+Concatenați mesaj cu numeComplet și stocați rezultatul în variabila mesajFinal.
+Afișați rezultatul utilizând console.log().

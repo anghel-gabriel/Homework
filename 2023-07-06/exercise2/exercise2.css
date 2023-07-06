@@ -1,0 +1,11 @@
+button {
+	display: block;
+	margin-bottom: 50px;
+}
+.imgs {
+	display: flex;
+	gap: 20px;
+}
+img {
+	height: 300px;
+}
