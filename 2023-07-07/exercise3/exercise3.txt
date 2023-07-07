@@ -1,0 +1,1 @@
+Creați un program care să calculeze factorialul unui număr = 13.

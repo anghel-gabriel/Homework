@@ -1,0 +1,1 @@
+Creați o funcție care să primeasca input un număr ca și variabilă, iar rezultatul să fie factorialul acelui număr. 
