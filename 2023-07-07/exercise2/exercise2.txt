@@ -1,0 +1,1 @@
+Faceți o funcție căreia să îî puteți pasa o variabilă (parametru al funcției, numarMaxim), astfel încăt să puteți afișa toate numerele divizibile cu 5 până la numărul pe care îl adăugăm ca și argument. 

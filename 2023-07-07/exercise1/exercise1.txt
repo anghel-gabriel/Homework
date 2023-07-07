@@ -1,0 +1,1 @@
+Scrieți un program care sa afișeze în consola, toate numerele divizibile cu 5 pana la 100. (For loop)
